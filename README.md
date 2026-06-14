@@ -1,4 +1,4 @@
-# Andrew Bezugliy
+# Andrii Bezuhlyi
 
 Frontend Developer (JavaScript / React)
 
